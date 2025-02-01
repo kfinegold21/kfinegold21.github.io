@@ -8,86 +8,46 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Ontario Institute for Seconary Education, University of Toronto, Toronto, Canada
-      year: 1905
+      institution: Ontario Institute for Studies in Education, University of Toronto, Toronto, Canada
+      year: 2023-Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Masters in Education
-      institution: Harvard University
-      year: 2019
+        - School and Clinical Child Psychology Program
+    - title: Masters of Arts
+      institution: Ontario Institute for Studies in Education, University of Toronto, Toronto, Canada
+      year: 2021-2023
       description:
-        - Description 1.
-        - Description 2
+        - School and Clinical Child Psychology Program
+    - title: Masters in Education 
+      institution: Harvard Graduate School of Education, Harvard University
+      year: 2018-2019
+      description:
+        - Human Development and Psychology
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Intervention Practicum Student
+      institution: Better Behaviours Service, The Centre for Addiction and Mental Health, Toronto, ON
+      year: 2024 - 2025
+    - title: School Assessment Practicum Student
+      institution: Toronto District School Board, Toronto, ON
+      year: 2022-2023
+    - title: Research Assistant 
+      institution: Neurobiology of Fear Lab (PI: Dr. Kerry Ressler), McLean Hospital, Belmont, MA
+      year: 2019-2021
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Certificate of Academic Excellence for Masters Thesis (Canadian Psychological Association)
+    - year: 2023-2024, 2024-2025
       items:
-        - Max Planck Medal
+        - Ontario Graduate Scholarship
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Early life adversity
+    - title: Risk and protective factors
