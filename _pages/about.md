@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Ontario Institute for Studies in Education (OISE)
+subtitle: <a href='#'>Affiliations</a>. Ontario Institute for Studies in Education (OISE), University of Toronto
 
 profile:
   align: right
@@ -33,4 +33,4 @@ Before embarking on a clinical research career, Kate worked as a special educati
 
 Her current research interests include uncovering the mechanisms that link exposure to early life adversity with worse cognitive and mental health outcomes. She is interested in elucidating the ecological and biological factors that promote resilience after exposure to early life adversity. 
 
-In her spare time Kate enjoys reading and doing pilates. 
+In her spare time, Kate enjoys reading and doing pilates. 
