@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Ontario Institute for Seconary Education</p>
+    <p>Ontario Institute for Studies in Education</p>
     <p>252 Bloor St W</p>
     <p>Toronto, ON M5S 1V6</p>
 
